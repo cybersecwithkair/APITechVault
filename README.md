@@ -87,9 +87,7 @@ To ensure security, the following measures have been implemented:
 - AI-powered summarization for better insights.
 - Web UI to interact with the API visually.
 
-License
 
-This project is licensed under the MIT License.
 
 
 
